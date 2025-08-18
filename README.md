@@ -8,7 +8,7 @@ A modern, interactive trivia quiz application built with React and TypeScript. T
 - 🏆 **Difficulty Levels**: Easy, Medium, Hard, or Mixed
 - ⏱️ **Real-time Timer**: 15-second countdown per question
 - 📊 **Live Progress Tracking**: Visual progress bar and score tracking
-- 🎨 **Beautiful UI**: Modern design with gradient backgrounds and smooth animations
+- 🎨 **Beautiful UI**: Modern design and smooth animations
 - 📱 **Responsive Design**: Works seamlessly on desktop and mobile devices
 - 🔄 **Instant Feedback**: Immediate answer validation with color-coded responses
 - 🎉 **Performance Summary**: Detailed results with percentage scores
