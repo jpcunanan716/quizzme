@@ -86,7 +86,7 @@ const QuizSetup: React.FC<QuizSetupProps> = ({
                     <button
                         onClick={onStartQuiz}
                         disabled={loading}
-                        className="w-full bg-blue-600 text-white py-3 px-6 rounded-lg font-semibold hover:from-purple-700 hover:to-blue-700 transition-all duration-300 disabled:opacity-50 flex items-center justify-center gap-2"
+                        className="w-full bg-blue-600 text-white py-3 px-6 rounded-lg font-semibold hover:from-purple-600 hover:to-blue-700 transition-all duration-300 disabled:opacity-50 flex items-center justify-center gap-2"
                     >
                         {loading ? (
                             <div className="animate-spin rounded-full h-5 w-5 border-b-2 border-white"></div>
